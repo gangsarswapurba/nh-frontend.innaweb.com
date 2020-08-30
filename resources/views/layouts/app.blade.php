@@ -5,19 +5,21 @@
 
     <body>
 
+        @include('layouts.topbar')
+
         @include('layouts.header')
 
         @yield('alert')
 
-        <main>
+        <div class="container" />
             @yield('content')
-        </main>
 
-        @include('layouts.social-media')
+            @include('layouts.social-media')
 
-        @include('layouts.cta')
+            @include('layouts.cta')
 
-        @include('layouts.footer')
+            @include('layouts.footer')
+        </div>
 
         @include('layouts.scripts')
 
