@@ -15,19 +15,7 @@
     </div>
     </div>
     <div class="scroller_anchor"></div>
-    <div class="container logo-menu logo-menu-mobile hd-1024">
-    <div class="col-xs-4">
-    <a href="https://www.niagahoster.co.id/"><img src="https://www.niagahoster.co.id/assets/images/2018/logo-mobile.svg" class="img-responsive logo-mobile" width="64" alt="hosting murah niagahoster"></a>
-    </div>
-    <div class="col-xs-8 contact_info">
-    <ul>
-    <li class="hd-320-719"><a href="tel:02742885822" class="nunito-regular"><i class="niaga-icon ic-margin-right" data-icon="Z"></i>0274-2885822</a></li>
-    <li class="hd-320-719"><a href="javascript: void(0);" onclick="Intercom('show');" class="nunito-regular"><i class="niaga-icon ic-margin-right" data-icon="S"></i>Live Chat</a></li>
-    <li><a href="https://panel.niagahoster.co.id/login" class="ic-border nunito-regular"><i class="niaga-icon ic-margin-right" data-icon="U"></i>Login</a></li>
-    <li><a href="javascript:void(0)" id="mobile-menu-burger" class="ic-border-icon-only nunito-regular"><i class="niaga-icon icon-ic-menu-burger ic-vertical-align"></i><span class="visuallyhidden">x</span></a></li>
-    </ul>
-    </div>
-    </div>
+
     <hr>
     <div class="container nav-top hd-320-719 hd-720-1023">
     <nav>
