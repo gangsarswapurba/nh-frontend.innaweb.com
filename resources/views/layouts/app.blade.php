@@ -13,7 +13,7 @@
             @yield('content')
         </main>
 
-        @include('layouts.social-media-share')
+        @include('layouts.social-media')
 
         @include('layouts.cta')
 
