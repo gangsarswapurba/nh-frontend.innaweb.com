@@ -1,6 +1,6 @@
 <div class="d-flex justify-content-between border-bottom">
     <div>
-        <h2>PHP Hosting</h2>
+        <h2 class="text-center">PHP Hosting</h2>
         <p>Cepat, handal, penuh dengan modul PHP yang Anda butuhkan</p>
         <ul>
             <li>Solusi PHP untuk performa query yang lebih cepat.</li>

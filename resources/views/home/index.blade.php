@@ -4,7 +4,11 @@
 
     @include('home.components.php-banner')
 
+    @include('home.components.encryption-feature')
+
     @include('home.components.price')
+
+    @include('home.components.bigger-php-limit')
 
     @include('home.components.hosting-features-included')
 
