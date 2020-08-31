@@ -18,7 +18,7 @@
 
             @include('layouts.cta')
 
-            @include('layouts.footer')
+            {{-- @include('layouts.footer') --}}
         </div>
 
         @include('layouts.scripts')
