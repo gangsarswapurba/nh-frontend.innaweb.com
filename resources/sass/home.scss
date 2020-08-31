@@ -28,3 +28,22 @@ ul.no-list-style > li {
 .support-laravel figure {
     margin-bottom: 0;
 }
+
+.card-body {
+    padding: 0 0 2rem;
+}
+.card.best-seller {
+    border-color: $primary;
+    .card-header, .card-title, .card-subtitle {
+        background-color: $primary;
+        color: #ffffff;
+    }
+    .card-text {
+        background-color: #0066cc;
+        color: #ffffff;
+    }
+}
+
+.card-body > .card-text, .card-body > ul {
+    padding: 1rem 1rem;
+}

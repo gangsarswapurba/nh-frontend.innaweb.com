@@ -13,7 +13,7 @@
                 </div>
                 <div class="card-body">
                     <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>0.5X RESOURCE POWER</li>
@@ -24,7 +24,7 @@
                         <li>Instant Backup</li>
                         <li>Unlimited SSL Gratis Selamanya</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-primary rounded-pill">Pilih Sekarang</button>
+                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
                 </div>
             </div>
         </div>
@@ -35,7 +35,7 @@
                 </div>
                 <div class="card-body">
                     <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>1X RESOURCE POWER</li>
@@ -48,18 +48,18 @@
                         <li>Domain Gratis Selamanya</li>
                         <li>Unlimited SSL Gratis Selamanya</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-primary rounded-pill">Pilih Sekarang</button>
+                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
                 </div>
             </div>
         </div>
         <div class="col">
-            <div class="card mb-4">
+            <div class="card best-seller mb-4">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Personal</h4>
                 </div>
                 <div class="card-body">
                     <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>2X RESOURCE POWER</li>
@@ -74,7 +74,7 @@
                         <li>Private Name Server</li>
                         <li>SpamAssasin Mail Protection</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-primary rounded-pill">Pilih Sekarang</button>
+                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="card-body">
                     <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>3X RESOURCE POWER</li>
@@ -102,7 +102,7 @@
                         <li>b b b b b</li>
                         <li>SpamExpert Pro Mail Protection</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-block btn-outline-primary rounded-pill">Pilih Sekarang</button>
+                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
                 </div>
             </div>
         </div>
