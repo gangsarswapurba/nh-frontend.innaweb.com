@@ -71,7 +71,7 @@
         </ul>
     </div>
     <div class="d-flex justify-content-center">
-        <button type="button" class="btn btn-outline-secondary btn-lg rounded-pill"><strong>Selengkapnya</strong></button>
+        <button type="button" class="btn btn-outline-dark btn-lg rounded-pill"><strong>Selengkapnya</strong></button>
     </div>
 
 </div>
