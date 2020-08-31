@@ -1,111 +1,43 @@
-<h2 class="text-center">Semua Paket Hosting Sudah Termasuk</h2>
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Bayi</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>10 users included</li>
-                    <li>2 GB of storage</li>
-                    <li>Email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
-            </div>
-        </div>
+<div class="hosting-features-included mt-5">
+    <h2 class="text-center">Semua Paket Hosting Sudah Termasuk</h2>
+    <div class="d-flex flex-row justify-content-around mt-5">
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>PHP Semua Versi</h5>
+            <p>Pilih mulai dari versi PHP 5.3 s/d PHP 7. <br />
+            Ubah sesuka Anda!</p>
+        </figure>
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>MySQL Versi 5.6</h5>
+            <p>Nikmati MySQL terbaru, tercepat dan<br />
+            kaya akan fitur.</p>
+        </figure>
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>Panel Hosting cPanel</h5>
+            <p>Kelola website dengan panel canggih yang<br />
+            familiar di hati Anda.</p>
+        </figure>
     </div>
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Pelajar</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>20 users included</li>
-                    <li>10 GB of storage</li>
-                    <li>Priority email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Personal</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>20 users included</li>
-                    <li>10 GB of storage</li>
-                    <li>Priority email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Bisnis</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>30 users included</li>
-                    <li>15 GB of storage</li>
-                    <li>Phone and email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Bisnis</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>30 users included</li>
-                    <li>15 GB of storage</li>
-                    <li>Phone and email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card mb-4 shadow-sm">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Bisnis</h4>
-            </div>
-            <div class="card-body">
-                <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" class="card-img-top" alt="...">
-                <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>30 users included</li>
-                    <li>15 GB of storage</li>
-                    <li>Phone and email support</li>
-                    <li>Help center access</li>
-                </ul>
-                <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
-            </div>
-        </div>
+    <div class="d-flex flex-row justify-content-around mt-5">
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>Garansi Uptime 99.9%</h5>
+            <p>Data center yang mendukung kelangsungan<br />
+            website Anda 24/7.</p>
+        </figure>
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>Database InnoDB Unlimited</h5>
+            <p>Jumlah dan ukuran database yang tumbuh<br />
+            sesuai kebutuhan Anda.</p>
+        </figure>
+        <figure class="text-center">
+            <img src="{{ asset('svg/icon PHP Hosting_PHP Semua Versi.svg') }}" alt="icon PHP Hosting_PHP Semua Versi">
+            <h5>Wildcard Remote MySQL</h5>
+            <p>Mendukung s/d 25 max_user_connections<br />
+            dan 100 max_connections.</p>
+        </figure>
     </div>
 </div>

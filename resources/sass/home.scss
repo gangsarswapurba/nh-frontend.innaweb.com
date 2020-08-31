@@ -4,5 +4,27 @@
 }
 
 ul.check > li {
-    list-style-image: url('/images/greencheck.png');
+    list-style-image: url(/images/greencheck.png);
+    line-height: 2.25rem;
+}
+
+.bigger-php-limit table {
+    width: 400px;
+}
+
+.price .card {
+    border-color: rgba(0,0,0,.05);
+}
+
+.hosting-features-included figure > img {
+    max-width: 60px;
+}
+ul.no-list-style > li {
+    list-style: none;
+}
+.hosting-features-included h5 {
+    margin-bottom: .3rem;
+}
+.support-laravel figure {
+    margin-bottom: 0;
 }
