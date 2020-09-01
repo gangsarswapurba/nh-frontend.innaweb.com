@@ -24,7 +24,7 @@
                         <li>Instant Backup</li>
                         <li>Unlimited SSL Gratis Selamanya</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
+                    <div class="px-3"><button type="button" class="btn btn-lg btn-outline-dark btn-block rounded-pill">Pilih Sekarang</button></div>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
                         <li>Domain Gratis Selamanya</li>
                         <li>Unlimited SSL Gratis Selamanya</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Pilih Sekarang</button>
+                    <div class="px-3"><button type="button" class="btn btn-lg btn-outline-dark btn-block rounded-pill">Pilih Sekarang</button></div>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
                         <li>Private Name Server</li>
                         <li>SpamAssasin Mail Protection</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-primary rounded-pill">Pilih Sekarang</button>
+                    <div class="px-3"><button type="button" class="btn btn-lg btn-primary btn-block rounded-pill">Pilih Sekarang</button></div>
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
                         <li>Prioritas Layanan Support</li>
                         <li>SpamExpert Pro Mail Protection</li>
                     </ul>
-                    <button type="button" class="btn btn-lg btn-outline-dark rounded-pill">Diskon 40%</button>
+                    <div class="px-3"><button type="button" class="btn btn-lg btn-outline-dark btn-block rounded-pill">Diskon 40%</button></div>
                 </div>
             </div>
         </div>
