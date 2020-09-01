@@ -7,13 +7,13 @@
     </div>
     <div class="row row-cols-1 row-cols-md-4 mx-4 gx-0 text-center">
         <div class="col">
-            <div class="card mb-4">
+            <div id="product1" class="card mb-4">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Bayi</h4>
                 </div>
                 <div class="card-body">
-                    <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h4 class="card-subtitle">Rp <span class="old-price font-weight-lighter">0</span></h4>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>0.5X RESOURCE POWER</li>
@@ -29,13 +29,13 @@
             </div>
         </div>
         <div class="col">
-            <div class="card mb-4">
+            <div id="product2" class="card mb-4">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Pelajar</h4>
                 </div>
                 <div class="card-body">
-                    <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h4 class="card-subtitle">Rp <span class="old-price font-weight-light">0</span></h4>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>1X RESOURCE POWER</li>
@@ -53,13 +53,13 @@
             </div>
         </div>
         <div class="col">
-            <div class="card best-seller mb-4">
+            <div id="product3" class="card best-seller mb-4">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Personal</h4>
                 </div>
                 <div class="card-body">
-                    <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h4 class="card-subtitle">Rp <span class="old-price font-weight-light">0</span></h4>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>2X RESOURCE POWER</li>
@@ -79,13 +79,13 @@
             </div>
         </div>
         <div class="col">
-            <div class="card mb-4">
+            <div id="product4" class="card mb-4">
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal">Bisnis</h4>
                 </div>
                 <div class="card-body">
-                    <h4 class="card-subtitle old-price">Rp 19.900</h4>
-                    <h1 class="card-title discount-price mb-0">Rp <span>14</span>.900<small class="text-muted">/ mo</small></h1>
+                    <h4 class="card-subtitle">Rp <span class="old-price font-weight-light">0</span></h4>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
                     <p class="card-text">938 Pengguna Terdaftar</p>
                     <ul class="list-unstyled mt-3 mb-4">
                         <li>3X RESOURCE POWER</li>
