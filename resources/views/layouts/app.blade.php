@@ -14,9 +14,9 @@
         <div class="container" />
             @yield('content')
 
-            @include('layouts.social-media')
+            {{-- @include('layouts.social-media') --}}
 
-            @include('layouts.cta')
+            {{-- @include('layouts.cta') --}}
 
             {{-- @include('layouts.footer') --}}
         </div>
