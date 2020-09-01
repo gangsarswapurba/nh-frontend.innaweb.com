@@ -1,6 +1,5 @@
 axios('https://nh-api.innaweb.com/api/product')
 .then(function (response) {
-    // console.log(response.data);
 
     var products = response.data;
 
@@ -27,11 +26,8 @@ axios('https://nh-api.innaweb.com/api/product')
         var lis = hostingProduct.querySelectorAll('li');
         lis.forEach(li => {
             liText = li.innerText;
-            // console.log(liText);
             liSplitted = liText.split(' ');
-            // console.log(liSplitted);
             liFirst = liSplitted.shift();
-            console.log(liFirst);
             liFirst = `<span class="font-weight-bold">${liFirst}</span>`
             liSplitted.unshift(liFirst);
 
