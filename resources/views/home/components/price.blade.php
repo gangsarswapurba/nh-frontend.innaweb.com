@@ -13,7 +13,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-subtitle font-weight-lighter">Rp <span class="old-price font-weight-light">0</span></p>
-                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="bln">/ bln</small></h1>
                     <p class="card-text"><span class="users font-weight-bold">0</span> Pengguna Terdaftar</p>
                     <ul class="hosting-feature-list list-unstyled mt-3 mb-4">
                         <li>0.5X RESOURCE POWER</li>
@@ -35,7 +35,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-subtitle font-weight-lighter">Rp <span class="old-price font-weight-light">0</span></p>
-                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="bln">/ bln</small></h1>
                     <p class="card-text"><span class="users font-weight-bold">0</span> Pengguna Terdaftar</p>
                     <ul class="hosting-feature-list list-unstyled mt-3 mb-4">
                         <li>1X RESOURCE POWER</li>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-subtitle font-weight-lighter">Rp <span class="old-price font-weight-light">0</span></p>
-                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="bln">/ bln</small></h1>
                     <p class="card-text"><span class="users font-weight-bold">0</span> Pengguna Terdaftar</p>
                     <ul class="hosting-feature-list list-unstyled mt-3 mb-4">
                         <li>2X RESOURCE POWER</li>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="card-body">
                     <p class="card-subtitle font-weight-lighter">Rp <span class="old-price font-weight-light">0</span></p>
-                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="text-muted">/ bln</small></h1>
+                    <h1 class="card-title mb-0">Rp <span class="new-price">0</span><small class="bln">/ bln</small></h1>
                     <p class="card-text"><span class="users font-weight-bold">0</span> Pengguna Terdaftar</p>
                     <ul class="hosting-feature-list list-unstyled mt-3 mb-4">
                         <li>3X RESOURCE POWER</li>
