@@ -28,6 +28,9 @@
     <meta name="msapplication-TileImage" content="{{ asset('images/favicon/ms-icon-144x144.png') }}">
     <meta name="theme-color" content="#0490EF">
 
+    <!-- local Roboto & Montserrat -->
+    <link href="{{ asset('fonts/montserrat/stylesheet.css') }}" rel="stylesheet">
+    <link href="{{ asset('fonts/roboto/stylesheet.css') }}" rel="stylesheet">
     <!-- pace js -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/white/pace-theme-minimal.min.css" integrity="sha512-A5dCeiLW7J62FnMqLDpTc1cAOGJUXWk/vSLcAApzIA4jNvSuWd8zZYEQEFtK3Yr+gg42l3L4dG7uchifMruFwQ==" crossorigin="anonymous" />
     <!-- bootstrap 5 -->
