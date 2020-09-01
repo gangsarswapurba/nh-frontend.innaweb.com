@@ -1,11 +1,17 @@
 .php-banner p {
-    font-family: 'Montserrat';
+    font-family: Montserrat;
     font-size: 1.75rem;
 }
 
 ul.check > li {
+    font-family: Roboto;
     list-style-image: url(/images/greencheck.png);
     line-height: 2.25rem;
+    font-weight: light;
+}
+
+.encryption-feature p {
+    font-family: Roboto-Light;
 }
 
 .bigger-php-limit table {
@@ -29,6 +35,10 @@ ul.no-list-style > li {
     margin-bottom: 0;
 }
 
+.card .card-header, .card-title, .card-subtitle {
+    padding: 1rem
+}
+
 .card-body {
     padding: 0 0 2rem;
 }
@@ -46,4 +56,8 @@ ul.no-list-style > li {
 
 .card-body > .card-text, .card-body > ul {
     padding: 1rem 1rem;
+}
+
+.price ul {
+    line-height: 2rem;
 }

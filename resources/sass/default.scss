@@ -17,3 +17,17 @@ h1, h2, h3, h4, h5, h6 {
 .border-bottom {
     border-color: rgb(44, 62, 80);
 }
+
+.price .card-subtitle {
+    text-decoration: line-through;
+}
+
+.price .card-title {
+    font-size: medium;
+}
+
+.new-price-head {
+    font-size: 3rem;
+    vertical-align: top;
+    line-height: 2.5rem;
+}
