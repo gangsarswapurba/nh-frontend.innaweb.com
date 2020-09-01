@@ -2,7 +2,7 @@
     <div>
         <h2 class="">PHP Hosting</h2>
         <p>Cepat, handal, penuh dengan modul PHP yang Anda butuhkan</p>
-        <ul class="check">
+        <ul class="check font-weight-light">
             <li>Solusi PHP untuk performa query yang lebih cepat.</li>
             <li>Konsumsi memori yang lebih rendah.</li>
             <li>Support PHP 5.3, PHP 5.4, PHP 5.5, PHP 5.6, PHP 7</li>
